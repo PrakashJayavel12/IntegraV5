@@ -1,0 +1,3 @@
+server = http://95.111.227.149:5239/api/SalesData
+storeid = BranchCode
+x-api-key =  AccountName	
