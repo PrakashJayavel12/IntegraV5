@@ -1,0 +1,9 @@
+D:\ADSR\Tools\NewTools\KAFD\Biz_KAFD_Web_V4.0\bin\Debug\DCIA.dll
+D:\ADSR\Tools\NewTools\KAFD\Biz_KAFD_Web_V4.0\bin\Debug\DCIA.pdb
+D:\ADSR\Tools\NewTools\KAFD\Biz_KAFD_Web_V4.0\bin\Debug\FtpConnection.dll
+D:\ADSR\Tools\NewTools\KAFD\Biz_KAFD_Web_V4.0\bin\Debug\Newtonsoft.Json.dll
+D:\ADSR\Tools\NewTools\KAFD\Biz_KAFD_Web_V4.0\bin\Debug\Renci.SshNet.dll
+D:\ADSR\Tools\NewTools\KAFD\Biz_KAFD_Web_V4.0\bin\Debug\SevenZipSharp.dll
+D:\ADSR\Tools\NewTools\KAFD\Biz_KAFD_Web_V4.0\obj\Debug\Biz_KAFD_Web_V4.0.csprojResolveAssemblyReference.cache
+D:\ADSR\Tools\NewTools\KAFD\Biz_KAFD_Web_V4.0\obj\Debug\DCIA.dll
+D:\ADSR\Tools\NewTools\KAFD\Biz_KAFD_Web_V4.0\obj\Debug\DCIA.pdb
