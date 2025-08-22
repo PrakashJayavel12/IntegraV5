@@ -890,6 +890,7 @@ namespace DCIA
  //                   //}
  //               }
 
+                //this is new code we are using here to update the old one.
                 string custBP = "", dod = "0", paxtype = "";
                 string sret = "0.00", sinv = "0.00", snet = "0.00", Transaction = "";
                 decimal cash = 0, card = 0;
