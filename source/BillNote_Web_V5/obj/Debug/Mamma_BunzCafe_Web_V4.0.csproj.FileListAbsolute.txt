@@ -1,0 +1,36 @@
+D:\integra settings v4.0(updated)\KAFD\Bharath\Mamma_BunzCafe_Web_V4.0\obj\Debug\Mamma_BunzCafe_Web_V4.0.csprojResolveAssemblyReference.cache
+D:\integra settings v4.0(updated)\KAFD\Bharath\Mamma_BunzCafe_Web_V4.0\obj\Debug\DCIA.dll
+D:\integra settings v4.0(updated)\KAFD\Bharath\Mamma_BunzCafe_Web_V4.0\obj\Debug\DCIA.pdb
+D:\integra settings v4.0(updated)\KAFD\Bharath\Mamma_BunzCafe_Web_V4.0\bin\Debug\DCIA.dll
+D:\integra settings v4.0(updated)\KAFD\Bharath\Mamma_BunzCafe_Web_V4.0\bin\Debug\DCIA.pdb
+D:\integra settings v4.0(updated)\KAFD\Bharath\Mamma_BunzCafe_Web_V4.0\bin\Debug\FtpConnection.dll
+D:\integra settings v4.0(updated)\KAFD\Bharath\Mamma_BunzCafe_Web_V4.0\bin\Debug\Newtonsoft.Json.dll
+D:\integra settings v4.0(updated)\KAFD\Bharath\Mamma_BunzCafe_Web_V4.0\bin\Debug\Renci.SshNet.dll
+D:\integra settings v4.0(updated)\KAFD\Bharath\Mamma_BunzCafe_Web_V4.0\bin\Debug\SevenZipSharp.dll
+D:\Upgraded integra settings v4.0\KAFD\Bharath\Mamma_BunzCafe_Web_V4.0\bin\Debug\DCIA.dll
+D:\Upgraded integra settings v4.0\KAFD\Bharath\Mamma_BunzCafe_Web_V4.0\bin\Debug\DCIA.pdb
+D:\Upgraded integra settings v4.0\KAFD\Bharath\Mamma_BunzCafe_Web_V4.0\bin\Debug\FtpConnection.dll
+D:\Upgraded integra settings v4.0\KAFD\Bharath\Mamma_BunzCafe_Web_V4.0\bin\Debug\Newtonsoft.Json.dll
+D:\Upgraded integra settings v4.0\KAFD\Bharath\Mamma_BunzCafe_Web_V4.0\bin\Debug\Renci.SshNet.dll
+D:\Upgraded integra settings v4.0\KAFD\Bharath\Mamma_BunzCafe_Web_V4.0\bin\Debug\SevenZipSharp.dll
+D:\Upgraded integra settings v4.0\KAFD\Bharath\Mamma_BunzCafe_Web_V4.0\obj\Debug\Mamma_BunzCafe_Web_V4.0.csprojResolveAssemblyReference.cache
+D:\Upgraded integra settings v4.0\KAFD\Bharath\Mamma_BunzCafe_Web_V4.0\obj\Debug\DCIA.dll
+D:\Upgraded integra settings v4.0\KAFD\Bharath\Mamma_BunzCafe_Web_V4.0\obj\Debug\DCIA.pdb
+D:\Upgraded integra settings v4.0\KAFD Tools\Mamma_BunzCafe_Web_V4.0\bin\Debug\DCIA.dll
+D:\Upgraded integra settings v4.0\KAFD Tools\Mamma_BunzCafe_Web_V4.0\bin\Debug\DCIA.pdb
+D:\Upgraded integra settings v4.0\KAFD Tools\Mamma_BunzCafe_Web_V4.0\bin\Debug\FtpConnection.dll
+D:\Upgraded integra settings v4.0\KAFD Tools\Mamma_BunzCafe_Web_V4.0\bin\Debug\Newtonsoft.Json.dll
+D:\Upgraded integra settings v4.0\KAFD Tools\Mamma_BunzCafe_Web_V4.0\bin\Debug\Renci.SshNet.dll
+D:\Upgraded integra settings v4.0\KAFD Tools\Mamma_BunzCafe_Web_V4.0\bin\Debug\SevenZipSharp.dll
+D:\Upgraded integra settings v4.0\KAFD Tools\Mamma_BunzCafe_Web_V4.0\obj\Debug\Mamma_BunzCafe_Web_V4.0.csprojResolveAssemblyReference.cache
+D:\Upgraded integra settings v4.0\KAFD Tools\Mamma_BunzCafe_Web_V4.0\obj\Debug\DCIA.dll
+D:\Upgraded integra settings v4.0\KAFD Tools\Mamma_BunzCafe_Web_V4.0\obj\Debug\DCIA.pdb
+D:\Upgraded integra settings v4.0\Imran\Mamma_BunzCafe_Web_V4.0\bin\Debug\DCIA.dll
+D:\Upgraded integra settings v4.0\Imran\Mamma_BunzCafe_Web_V4.0\bin\Debug\DCIA.pdb
+D:\Upgraded integra settings v4.0\Imran\Mamma_BunzCafe_Web_V4.0\bin\Debug\FtpConnection.dll
+D:\Upgraded integra settings v4.0\Imran\Mamma_BunzCafe_Web_V4.0\bin\Debug\Newtonsoft.Json.dll
+D:\Upgraded integra settings v4.0\Imran\Mamma_BunzCafe_Web_V4.0\bin\Debug\Renci.SshNet.dll
+D:\Upgraded integra settings v4.0\Imran\Mamma_BunzCafe_Web_V4.0\bin\Debug\SevenZipSharp.dll
+D:\Upgraded integra settings v4.0\Imran\Mamma_BunzCafe_Web_V4.0\obj\Debug\Mamma_BunzCafe_Web_V4.0.csprojResolveAssemblyReference.cache
+D:\Upgraded integra settings v4.0\Imran\Mamma_BunzCafe_Web_V4.0\obj\Debug\DCIA.dll
+D:\Upgraded integra settings v4.0\Imran\Mamma_BunzCafe_Web_V4.0\obj\Debug\DCIA.pdb

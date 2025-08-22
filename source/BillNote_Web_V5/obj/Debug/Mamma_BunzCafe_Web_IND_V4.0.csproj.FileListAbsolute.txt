@@ -1,0 +1,27 @@
+D:\Upgraded integra settings v4.0\Imran\Mamma_BunzCafe_Web_V4.0\bin\Debug\DCIA.dll
+D:\Upgraded integra settings v4.0\Imran\Mamma_BunzCafe_Web_V4.0\bin\Debug\DCIA.pdb
+D:\Upgraded integra settings v4.0\Imran\Mamma_BunzCafe_Web_V4.0\bin\Debug\FtpConnection.dll
+D:\Upgraded integra settings v4.0\Imran\Mamma_BunzCafe_Web_V4.0\bin\Debug\Newtonsoft.Json.dll
+D:\Upgraded integra settings v4.0\Imran\Mamma_BunzCafe_Web_V4.0\bin\Debug\Renci.SshNet.dll
+D:\Upgraded integra settings v4.0\Imran\Mamma_BunzCafe_Web_V4.0\bin\Debug\SevenZipSharp.dll
+D:\Upgraded integra settings v4.0\Imran\Mamma_BunzCafe_Web_V4.0\obj\Debug\DCIA.dll
+D:\Upgraded integra settings v4.0\Imran\Mamma_BunzCafe_Web_V4.0\obj\Debug\DCIA.pdb
+D:\Upgraded integra settings v4.0\Imran\Mamma_BunzCafe_Web_V4.0\obj\Debug\Mamma_BunzCafe_Web_IND_V4.0.csproj.AssemblyReference.cache
+D:\Upgraded integra settings v4.0\Imran\Mamma_BunzCafe_Web_V4.0\obj\Debug\Mamma_BunzCafe_Web_IND_V4.0.csproj.CoreCompileInputs.cache
+D:\Upgraded integra settings v4.0\Imran\Mamma_BunzCafe_Web_V4.0\obj\Debug\Mamma_Bu.EFD5EF50.Up2Date
+D:\Upgraded integra settings v4.0\INDIA\Mamma_BunzCafe_Web_IND_V4.0\bin\Debug\DCIA.dll
+D:\Upgraded integra settings v4.0\INDIA\Mamma_BunzCafe_Web_IND_V4.0\bin\Debug\DCIA.pdb
+D:\Upgraded integra settings v4.0\INDIA\Mamma_BunzCafe_Web_IND_V4.0\bin\Debug\Newtonsoft.Json.dll
+D:\Upgraded integra settings v4.0\INDIA\Mamma_BunzCafe_Web_IND_V4.0\obj\Debug\Mamma_BunzCafe_Web_IND_V4.0.csproj.AssemblyReference.cache
+D:\Upgraded integra settings v4.0\INDIA\Mamma_BunzCafe_Web_IND_V4.0\obj\Debug\Mamma_BunzCafe_Web_IND_V4.0.csproj.CoreCompileInputs.cache
+D:\Upgraded integra settings v4.0\INDIA\Mamma_BunzCafe_Web_IND_V4.0\obj\Debug\Mamma_Bu.EFD5EF50.Up2Date
+D:\Upgraded integra settings v4.0\INDIA\Mamma_BunzCafe_Web_IND_V4.0\obj\Debug\DCIA.dll
+D:\Upgraded integra settings v4.0\INDIA\Mamma_BunzCafe_Web_IND_V4.0\obj\Debug\DCIA.pdb
+D:\Integra 5.0\Mamma_BunzCafe_Web_IND_V4.0\bin\Debug\DCIA.dll
+D:\Integra 5.0\Mamma_BunzCafe_Web_IND_V4.0\bin\Debug\DCIA.pdb
+D:\Integra 5.0\Mamma_BunzCafe_Web_IND_V4.0\bin\Debug\Newtonsoft.Json.dll
+D:\Integra 5.0\Mamma_BunzCafe_Web_IND_V4.0\obj\Debug\Mamma_BunzCafe_Web_IND_V4.0.csproj.AssemblyReference.cache
+D:\Integra 5.0\Mamma_BunzCafe_Web_IND_V4.0\obj\Debug\Mamma_BunzCafe_Web_IND_V4.0.csproj.CoreCompileInputs.cache
+D:\Integra 5.0\Mamma_BunzCafe_Web_IND_V4.0\obj\Debug\Mamma_Bu.EFD5EF50.Up2Date
+D:\Integra 5.0\Mamma_BunzCafe_Web_IND_V4.0\obj\Debug\DCIA.dll
+D:\Integra 5.0\Mamma_BunzCafe_Web_IND_V4.0\obj\Debug\DCIA.pdb

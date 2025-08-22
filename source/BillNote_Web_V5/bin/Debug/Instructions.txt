@@ -1,0 +1,4 @@
+AccountName - https://api.forkpos.com/public/v2/Receipts/GetByPeriod
+username - ClientId
+password- ClientSecret
+AppKey - locationId

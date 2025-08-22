@@ -1,0 +1,5 @@
+D:\@@@julius_ADSR\integra 5.0\SOAP\WilliamPen(Hidesign)ADSR_V5\obj\Debug\WilliamPen(Hidesign)ADSR_V5.csprojResolveAssemblyReference.cache
+D:\@@@julius_ADSR\integra 5.0\SOAP\WilliamPen(Hidesign)ADSR_V5\obj\Debug\DCIA.dll
+D:\@@@julius_ADSR\integra 5.0\SOAP\WilliamPen(Hidesign)ADSR_V5\bin\Debug\DCIA.dll
+D:\@@@julius_ADSR\integra 5.0\SOAP\WilliamPen(Hidesign)ADSR_V5\bin\Debug\DCIA.pdb
+D:\@@@julius_ADSR\integra 5.0\SOAP\WilliamPen(Hidesign)ADSR_V5\obj\Debug\DCIA.pdb

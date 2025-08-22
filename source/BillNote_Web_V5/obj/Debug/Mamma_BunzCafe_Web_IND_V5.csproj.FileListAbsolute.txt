@@ -1,0 +1,8 @@
+D:\Integra 5.0\Mamma_BunzCafe_Web_IND_V4.0\bin\Debug\DCIA.dll
+D:\Integra 5.0\Mamma_BunzCafe_Web_IND_V4.0\bin\Debug\DCIA.pdb
+D:\Integra 5.0\Mamma_BunzCafe_Web_IND_V4.0\bin\Debug\Newtonsoft.Json.dll
+D:\Integra 5.0\Mamma_BunzCafe_Web_IND_V4.0\obj\Debug\Mamma_BunzCafe_Web_IND_V5.csproj.AssemblyReference.cache
+D:\Integra 5.0\Mamma_BunzCafe_Web_IND_V4.0\obj\Debug\Mamma_BunzCafe_Web_IND_V5.csproj.CoreCompileInputs.cache
+D:\Integra 5.0\Mamma_BunzCafe_Web_IND_V4.0\obj\Debug\Mamma_Bu.B355577C.Up2Date
+D:\Integra 5.0\Mamma_BunzCafe_Web_IND_V4.0\obj\Debug\DCIA.dll
+D:\Integra 5.0\Mamma_BunzCafe_Web_IND_V4.0\obj\Debug\DCIA.pdb
